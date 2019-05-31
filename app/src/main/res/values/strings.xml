@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Animasi Gradient</string>
+    <string name="warok_droid">WAROK DROID</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+</resources>
